@@ -15,9 +15,9 @@
 
 ## Grading
 
-Design - 20%
-Development - 30%
-Management and Teamwork - 50%
+- Design - 20%
+- Development - 30%
+- Management and Teamwork - 50%
 
 ## Presentation
 
